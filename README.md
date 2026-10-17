@@ -84,19 +84,13 @@ Kromo Tools is the opposite. Every tool loads quickly, works on any device, and 
 
 | Category | Examples |
 |---|---|
-| 🧮 [**Math and Smart Calculators**](https://www.kromotools.net/p/math-calculators.html) | Scientific calculator, percentage, fraction, ratio, average, standard deviation, matrix, equation and algebra solver, LCM, GCF, prime checker, binary, hex, Roman numerals |
+| 🧮 [**Math and Smart Calculators**](https://www.kromotools.net/p/math-calculators.html) | Scientific calculator, percentage, fraction, ratio, average, standard deviation, matrix, equation and algebra solver, LCM, GCF, prime checker, binary, hex, Roman numerals, mortgage, eBay and Amazon FBA fee calculators |
 | ❤️ [**Fitness and Health Calculators**](https://www.kromotools.net/p/fitness-health-calculators.html) | BMI, BMR, TDEE, calorie, macro, body fat, protein and water intake, VO2 max, one-rep max, heart rate zones, sleep, pregnancy and due date |
 | 🖼️ [**PDF and Image Tools**](https://www.kromotools.net/p/pdf-image-tools.html) | Merge, split, compress, rotate, protect, unlock PDFs; image compressor, resize, crop, background remover, format converters |
-| 🔄 [**Daily Utility and Converters**](https://www.kromotools.net/p/daily-utility-converters.html) | Unit, length, weight, temperature, speed, area, volume, data storage, color code converters |
+| 🔄 [**Daily Utility and Converters**](https://www.kromotools.net/p/daily-utility-converters.html) | Unit, length, weight, temperature, speed, area, volume, data storage and color code converters, plus text, developer and AI helpers like Word Counter, JSON Formatter, Grammar Checker and AI Text Humanizer |
 | ⏰ [**Time and Productivity Calculators**](https://www.kromotools.net/p/time-productivity-calculators.html) | Age, days between dates, time zone, business days, work hours, Pomodoro, focus timer, habit tracker |
-| 🎓 [**Education and Exam Calculators**](https://www.kromotools.net/p/education-exam-calculators.html) | GPA, CGPA, exam countdown, study time tracker, school days calculator |
 | 📣 [**Social Media Tools**](https://www.kromotools.net/p/social-media-tools.html) | Instagram bio, caption, hashtag, TikTok caption, viral hook, video ideas, YouTube channel tools |
-| 🤖 [**AI Creator and Generator Tools**](https://www.kromotools.net/p/ai-creator-and-generator-tools.html) | AI-powered content and generator tools |
-| 💰 [**Finance Calculators**](https://www.kromotools.net/p/finance-calculators.html) | Loan, mortgage, and other money calculators |
-| 💼 [**Money and Side Hustle Tools**](https://www.kromotools.net/p/money-and-side-hustle-tools.html) | Tools for sellers, freelancers, and online earners |
-| ✍️ [**Language and Writing Tools**](https://www.kromotools.net/p/language-and-writing-tools.html) | Writing, grammar, and language helpers |
-| 💻 [**Developer, Security and Network Tools**](https://www.kromotools.net/p/developer-security-network-tools.html) | JSON, Base64, URL encoding, DNS and IP tools |
-| 🏠 [**Home and Construction Tools**](https://www.kromotools.net/p/home-construction-tools.html) | Calculators for home and building projects |
+| 🎓 [**Education and Exam Calculators**](https://www.kromotools.net/p/education-exam-calculators.html) | GPA, CGPA, exam countdown, study time tracker, school days calculator |
 
 ## Full Tool Directory
 
